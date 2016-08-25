@@ -1,5 +1,7 @@
-this is my first text file
-this is my first text file
-this is my first text file
-this is my first text file
-this is my first text file
+
+Configure Git account for our GitHUB repository
+
+git config --global user.name "Your Name"
+
+
+git config --global user.mail "yourmail@domain.com" (no quotes around email address"
